@@ -1,0 +1,303 @@
+Pride and Prejudice,Jane Austen 
+Et dukkehjem. English,Henrik Ibsen 
+The Importance of Being Earnest: A Trivial Comedy for Serious People,Oscar Wilde 
+A Tale of Two Cities,Charles Dickens 
+Moby Dick Or The Whale,Herman Melville 
+Frankenstein Or The Modern Prometheus,Mary Wollstonecraft Shelley 
+Alice's Adventures in Wonderland,Lewis Carroll 
+A Modest Proposal,Jonathan Swift 
+The Adventures of Sherlock Holmes,Arthur Conan Doyle 
+Dracula,Bram Stoker 
+Heart of Darkness,Joseph Conrad 
+Metamorphosis,Franz Kafka 
+The Picture of Dorian Gray,Oscar Wilde 
+The Adventures of Tom Sawyer,Mark Twain 
+War and Peace,graf Leo Tolstoy 
+The Iliad,Homer 
+Adventures of Huckleberry Finn,Mark Twain 
+The Awakening and Selected Short Stories,Kate Chopin 
+Ulysses,James Joyce 
+Les Misérables,Victor Hugo 
+The Romance of Lust: A classic Victorian erotic novel,Anonymous 
+Walden and On The Duty Of Civil Disobedience,Henry David Thoreau 
+The Complete Works of William Shakespeare,William Shakespeare 
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson 
+The Yellow Wallpaper,Charlotte Perkins Gilman 
+Grimms' Fairy Tales,Jacob Grimm and Wilhelm Grimm 
+The Golden Slave,Poul Anderson 
+Beowulf: An Anglo-Saxon Epic Poem,unknown
+Prestuplenie i nakazanie. English,Fyodor Dostoyevsky 
+Treasure Island,Robert Louis Stevenson 
+Jane Eyre: An Autobiography,Charlotte Brontë 
+Baron Trump's Marvellous Underground Journey,Ingersoll Lockwood 
+Plays,Susan Glaspell 
+Dubliners,James Joyce 
+A Complete Dictionary of Synonyms and Antonyms,Samuel Fallows 
+Il Principe. English,Niccolò Machiavelli 
+The Count of Monte Cristo,Alexandre Dumas 
+Emma,Jane Austen 
+Great Expectations,Charles Dickens 
+Campfire Tales of Jackson Hole,G. Bryan Harry 
+Peter Pan,J. M. Barrie 
+A Study in Scarlet,Arthur Conan Doyle 
+The Brothers Karamazov,Fyodor Dostoyevsky 
+The King James Version of the Bible,multiple 
+The Inimitable Jeeves,P. G. Wodehouse 
+The Souls of Black Folk,W. E. B. Du Bois 
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein 
+The Republic,Plato 
+Wuthering Heights,Emily Brontë 
+Redeemed,Mrs. George Sheldon Downs 
+My Secret Life Volumes I. to III.,Anonymous 
+The Kama Sutra of Vatsyayana,Vatsyayana 
+The Scarlet Letter,Nathaniel Hawthorne 
+Meditations,Emperor of Rome Marcus Aurelius 
+Pygmalion,Bernard Shaw 
+The Use and Abuse of Church Bells,Walter Blunt 
+Hard Times,Charles Dickens 
+The Wonderful Wizard of Oz,L. Frank Baum 
+The Laboratorians,Edward Peattie 
+Armenia and Her People,George H. Filian 
+The Divine Comedy,Dante Alighieri 
+A Christmas Carol in Prose; Being a Ghost Story of Christmas,Charles Dickens 
+Siddhartha,Hermann Hesse 
+Poems,Katherine Mansfield 
+The Time Machine,H. G. Wells 
+Anne of Green Gables,L. M. Montgomery 
+Narrative of the Life of Frederick Douglass an American Slave,Frederick Douglass 
+Beyond Good and Evil,Friedrich Wilhelm Nietzsche 
+Leaves of Grass,Walt Whitman 
+The Hound of the Baskervilles,Arthur Conan Doyle 
+A Connecticut Yankee in King Arthur's Court,Mark Twain 
+Also sprach Zarathustra. English,Friedrich Wilhelm Nietzsche 
+Uncle Tom's Cabin,Harriet Beecher Stowe 
+Don Quixote,Miguel de Cervantes Saavedra 
+Essays of Michel de Montaigne — Complete,Michel de Montaigne 
+The Devil's Dictionary,Ambrose Bierce 
+Calculus Made Easy,Silvanus P. Thompson 
+The Legend of Sleepy Hollow,Washington Irving 
+The Innocents Abroad,Mark Twain 
+Sense and Sensibility,Jane Austen 
+Little Women,Louisa May Alcott 
+Anna Karenina,graf Leo Tolstoy 
+The Golden Rule Cook Book: Six hundred recipes for meatless dishes,M. R. L. Sharpe 
+The Confessions of St. Augustine,Bishop of Hippo Saint Augustine 
+Discovering Evelina,Frank Frankfort Moore 
+Gulliver's Travels into Several Remote Nations of the World,Jonathan Swift 
+The Outer Quiet,Herbert D. Kastle 
+Oliver Twist,Charles Dickens 
+The War of the Worlds,H. G. Wells 
+The Secret Garden,Frances Hodgson Burnett 
+Silas Marner: The Weaver of Raveloe,Mary Cross
+The Prophet,Kahlil Gibran 
+The Interesting Narrative of the Life of Olaudah Equiano Or Gustavus Vassa The African,Equiano 
+The Mysterious Affair at Styles,Agatha Christie 
+Leviathan,Thomas Hobbes 
+Roughing It,Mark Twain 
+Middlemarch,George Eliot 
+Forbidden Fruit: Luscious and exciting story and More forbidden fruit or Master Percy's progress,unknown
+Anthem,Ayn Rand 
+An Ideal Husband,Oscar Wilde 
+The Turn of the Screw,Henry James 
+Pride and Prejudice,Jane Austen 
+Moby Dick Or The Whale,Herman Melville 
+A Tale of Two Cities,Charles Dickens 
+Et dukkehjem. English,Henrik Ibsen 
+Frankenstein Or The Modern Prometheus,Mary Wollstonecraft Shelley 
+The Importance of Being Earnest: A Trivial Comedy for Serious People,Oscar Wilde 
+A Modest Proposal,Jonathan Swift 
+Alice's Adventures in Wonderland,Lewis Carroll 
+Heart of Darkness,Joseph Conrad 
+Dracula,Bram Stoker 
+Metamorphosis,Franz Kafka 
+Baron Trump's Marvellous Underground Journey,Ingersoll Lockwood 
+The Adventures of Tom Sawyer,Mark Twain 
+The Adventures of Sherlock Holmes,Arthur Conan Doyle 
+The Awakening and Selected Short Stories,Kate Chopin 
+Adventures of Huckleberry Finn,Mark Twain 
+Walden and On The Duty Of Civil Disobedience,Henry David Thoreau 
+War and Peace,graf Leo Tolstoy 
+The Picture of Dorian Gray,Oscar Wilde 
+Beowulf: An Anglo-Saxon Epic Poem,unknown 
+Grimms' Fairy Tales,Jacob Grimm and Wilhelm Grimm 
+The Iliad,Homer 
+The Yellow Wallpaper,Charlotte Perkins Gilman 
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson 
+Prestuplenie i nakazanie. English,Fyodor Dostoyevsky 
+Ulysses,James Joyce 
+The Souls of Black Folk,W. E. B. Du Bois 
+Jane Eyre: An Autobiography,Charlotte Brontë 
+Great Expectations,Charles Dickens 
+The Romance of Lust: A classic Victorian erotic novel,Anonymous 
+Treasure Island,Robert Louis Stevenson 
+A Complete Dictionary of Synonyms and Antonyms,Samuel Fallows 
+The Scarlet Letter,Nathaniel Hawthorne 
+Emma,Jane Austen 
+Dubliners,James Joyce 
+The Count of Monte Cristo,Alexandre Dumas 
+Il Principe. English,Niccolò Machiavelli 
+Pygmalion,Bernard Shaw 
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein 
+The Brothers Karamazov,Fyodor Dostoyevsky 
+Peter Pan,J. M. Barrie 
+Les Misérables,Victor Hugo 
+A Study in Scarlet,Arthur Conan Doyle 
+Leaves of Grass,Walt Whitman 
+A Christmas Carol in Prose; Being a Ghost Story of Christmas,Charles Dickens 
+The Inimitable Jeeves,P. G. Wodehouse 
+Wuthering Heights,Emily Brontë 
+The Complete Works of William Shakespeare,William Shakespeare 
+Narrative of the Life of Frederick Douglass an American Slave,Frederick Douglass 
+The Republic,Plato 
+Uncle Tom's Cabin,Harriet Beecher Stowe 
+Silas Marner: The Weaver of Raveloe,George Eliot
+The Divine Comedy,Dante Alighieri
+The Wonderful Wizard of Oz,L. Frank Baum 
+Gulliver's Travels into Several Remote Nations of the World,Jonathan Swift 
+Siddhartha,Hermann Hesse 
+Hard Times,Charles Dickens 
+Plays,Susan Glaspell 
+The Devil's Dictionary,Ambrose Bierce 
+The Turn of the Screw,Henry James 
+My Secret Life Volumes I. to III.,Anonymous 
+Also sprach Zarathustra. English,Friedrich Wilhelm Nietzsche 
+Essays of Michel de Montaigne — Complete,Michel de Montaigne 
+The Golden Slave,Poul Anderson 
+The Flying Inn,G. K. Chesterton 
+Meditations,Emperor of Rome Marcus Aurelius 
+The Hound of the Baskervilles,Arthur Conan Doyle 
+Leviathan,Thomas Hobbes 
+Beyond Good and Evil,Friedrich Wilhelm Nietzsche 
+They Were Different,Neil J. Kenney 
+Little Women,Louisa May Alcott 
+Anne of Green Gables,L. M. Montgomery 
+The Prophet,Kahlil Gibran 
+Calculus Made Easy,Silvanus P. Thompson 
+The Time Machine,H. G. Wells 
+Sense and Sensibility,Jane Austen 
+Don Quixote,Miguel de Cervantes Saavedra 
+The King James Version of the Bible,multiple 
+Oliver Twist,Charles Dickens 
+The Kama Sutra of Vatsyayana,Vatsyayana 
+An Occurrence at Owl Creek Bridge,Ambrose Bierce 
+Anthem,Ayn Rand 
+Middlemarch,George Eliot 
+Ethan Frome,Edith Wharton 
+The Legend of Sleepy Hollow,Washington Irving 
+Anna Karenina,graf Leo Tolstoy 
+The Secret Garden,Frances Hodgson Burnett 
+A Connecticut Yankee in King Arthur's Court,Mark Twain 
+The Life and Adventures of Robinson Crusoe,Daniel Defoe 
+The Slang Dictionary: Etymological Historical and Andecdotal,John Camden Hotten 
+The War of the Worlds,H. G. Wells 
+The Confessions of St. Augustine,Bishop of Hippo Saint Augustine 
+Songs of Innocence and Songs of Experience,William Blake 
+Candide,Voltaire 
+Flower and Jewel,Mrs. Alex. McVeigh Miller 
+Hedda Gabler,Henrik Ibsen 
+On Liberty,John Stuart Mill 
+Manifest der Kommunistischen Partei. English,Friedrich Engels and Karl Marx 
+Le Morte d'Arthur: Volume 1,Sir Thomas Malory 
+The Sign of the Four,Arthur Conan Doyle 
+Three Good Giants,François Rabelais 
+Pride and Prejudice,Jane Austen 
+Frankenstein Or The Modern Prometheus,Mary Wollstonecraft Shelley 
+Et dukkehjem. English,Henrik Ibsen 
+A Tale of Two Cities,Charles Dickens 
+The Importance of Being Earnest: A Trivial Comedy for Serious People,Oscar Wilde 
+A Modest Proposal,Jonathan Swift 
+Moby Dick Or The Whale,Herman Melville 
+Alice's Adventures in Wonderland,Lewis Carroll 
+Heart of Darkness,Joseph Conrad 
+Dracula,Bram Stoker 
+The Adventures of Sherlock Holmes,Arthur Conan Doyle 
+Metamorphosis,Franz Kafka 
+The Awakening and Selected Short Stories,Kate Chopin 
+Adventures of Huckleberry Finn,Mark Twain 
+The Adventures of Tom Sawyer,Mark Twain 
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson 
+The Picture of Dorian Gray,Oscar Wilde 
+The Yellow Wallpaper,Charlotte Perkins Gilman 
+War and Peace,graf Leo Tolstoy 
+The Iliad,Homer 
+Prestuplenie i nakazanie. English,Fyodor Dostoyevsky 
+Grimms' Fairy Tales,Jacob Grimm and Wilhelm Grimm 
+Walden and On The Duty Of Civil Disobedience,Henry David Thoreau 
+Jane Eyre: An Autobiography,Charlotte Brontë 
+Beowulf: An Anglo-Saxon Epic Poem,unknown 
+Silas Marner: The Weaver of Raveloe,Mary Anne Evans
+Ulysses,James Joyce 
+Great Expectations,Charles Dickens 
+The Souls of Black Folk,W. E. B. Du Bois 
+The Romance of Lust: A classic Victorian erotic novel,Anonymous 
+Il Principe. English,Niccolò Machiavelli 
+The Scarlet Letter,Nathaniel Hawthorne 
+Emma,Jane Austen 
+Treasure Island,Robert Louis Stevenson 
+The Count of Monte Cristo,Alexandre Dumas 
+Dubliners,James Joyce 
+Peter Pan,J. M. Barrie 
+Pygmalion,Bernard Shaw 
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein 
+The Brothers Karamazov,Fyodor Dostoyevsky 
+A Christmas Carol in Prose; Being a Ghost Story of Christmas,Charles Dickens 
+Narrative of the Life of Frederick Douglass an American Slave,Frederick Douglass 
+Wuthering Heights,Emily Brontë 
+The Republic,Plato 
+Les Misérables,Victor Hugo 
+Siddhartha,Hermann Hesse 
+Hard Times,Charles Dickens 
+A Study in Scarlet,Arthur Conan Doyle 
+Leaves of Grass,Walt Whitman 
+Uncle Tom's Cabin,Harriet Beecher Stowe 
+Essays of Michel de Montaigne — Complete,Michel de Montaigne 
+The Divine Comedy,Dante Alighieri 
+The Wonderful Wizard of Oz,L. Frank Baum 
+The Complete Works of William Shakespeare,William Shakespeare 
+Leviathan,Thomas Hobbes 
+My Secret Life Volumes I. to III.,Anonymous 
+Gulliver's Travels into Several Remote Nations of the World,Jonathan Swift 
+Calculus Made Easy,Silvanus P. Thompson 
+The Hound of the Baskervilles,Arthur Conan Doyle 
+The Prophet,Kahlil Gibran 
+The Turn of the Screw,Henry James 
+The Time Machine,H. G. Wells 
+Also sprach Zarathustra. English,Friedrich Wilhelm Nietzsche 
+Beyond Good and Evil,Friedrich Wilhelm Nietzsche 
+Meditations,Emperor of Rome Marcus Aurelius 
+Manifest der Kommunistischen Partei. English,Friedrich Engels and Karl Marx 
+An Occurrence at Owl Creek Bridge,Ambrose Bierce 
+Little Women,Louisa May Alcott 
+Sense and Sensibility,Jane Austen 
+Oliver Twist,Charles Dickens 
+Songs of Innocence and Songs of Experience,William Blake 
+Candide,Voltaire 
+The Kama Sutra of Vatsyayana,Vatsyayana 
+The War of the Worlds,H. G. Wells 
+The Devil's Dictionary,Ambrose Bierce 
+Anne of Green Gables,L. M. Montgomery 
+The Life and Adventures of Robinson Crusoe,Daniel Defoe 
+The King James Version of the Bible,multiple 
+Don Quixote,Miguel de Cervantes Saavedra 
+A Complete Dictionary of Synonyms and Antonyms,Samuel Fallows 
+The Legend of Sleepy Hollow,Washington Irving 
+The Sign of the Four,Arthur Conan Doyle 
+The Secret Garden,Frances Hodgson Burnett 
+Baron Trump's Marvellous Underground Journey,Ingersoll Lockwood 
+Ethan Frome,Edith Wharton 
+Hedda Gabler,Henrik Ibsen 
+Anthem,Ayn Rand 
+The Tragical History of Doctor Faustus,Christopher Marlowe 
+The Confessions of St. Augustine,Bishop of Hippo Saint Augustine 
+Anna Karenina,graf Leo Tolstoy 
+Le Morte d'Arthur: Volume 1,Sir Thomas Malory 
+The Jungle,Upton Sinclair 
+On Liberty,John Stuart Mill 
+The Works of Edgar Allan Poe — Volume 2,Edgar Allan Poe 
+The Mysterious Affair at Styles,Agatha Christie 
+Roughing It,Mark Twain 
+On the origin of species,Charles Darwin 
+Middlemarch,George Eliot 
+The Interesting Narrative of the Life of Olaudah Equiano Or Gustavus Vassa The African,Equiano 
+Don Juan,Byron 
+Divine Comedy,Dante Alighieri 
